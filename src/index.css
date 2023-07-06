@@ -1,0 +1,24 @@
+:root {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(218, 23%, 16%);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+
+.attribution{
+  color: hsl(193, 38%, 86%);
+  font-size: 10px;
+}
+
+.attribution a{
+  color: hsl(150, 100%, 66%);
+  text-decoration: none;
+}
